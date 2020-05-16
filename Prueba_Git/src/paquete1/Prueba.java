@@ -12,7 +12,7 @@ public class Prueba {
         
         JOptionPane.showMessageDialog(null, "Hola mundo");
         
-        
+        JOptionPane.showMessageDialog(null, "Como esta mi gente");
     }
     
     
